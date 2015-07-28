@@ -34,30 +34,21 @@ p, ul, ol {
     line-height: 180%;
 }
 
-ul, ol {
-}
-
 a {
     text-decoration: none;
     color: #F6B300;
 }
 
-a:hover {
-}
 
 /* Header */
-
-#header-wrapper {
-}
-
 #header {
     clear: both;
     width: 1000px;
     margin: 0px auto;
 }
 
-/* Logo */
 
+/* Logo */
 #logo {
     margin: 0px;
     padding: 30px 0px;
@@ -100,8 +91,8 @@ a:hover {
     color: #323030;
 }
 
-/* Search */
 
+/* Search */
 #search {
     width: 320px;
     height: 60px;
@@ -139,8 +130,8 @@ a:hover {
     color: #FFFFFF;
 }
 
-/* Menu */
 
+/* Menu */
 #menu-wrapper {
     overflow: hidden;
     height: 56px;
@@ -194,8 +185,8 @@ a:hover {
     border-radius: 8px;
 }
 
-/* Page */
 
+/* Page */
 #page {
     overflow: hidden;
     width: 1000px;
@@ -203,8 +194,8 @@ a:hover {
     padding: 30px 0px;
 }
 
-/* Content */
 
+/* Content */
 #content {
     float: right;
     width: 640px;
@@ -216,12 +207,6 @@ a:hover {
     border: 1px solid #E7DFD7;
     border-radius: 8px;
     background: #F1EDE4;
-}
-
-.post-bgtop {
-}
-
-.post-bgbtm {
 }
 
 .post .title {
@@ -251,9 +236,6 @@ a:hover {
     float: right;
 }
 
-.post .meta a {
-}
-
 .post .entry {
     padding: 0px 0px 20px 0px;
     padding-bottom: 20px;
@@ -269,8 +251,7 @@ a:hover {
     color: #1C1C1C;
 }
 
-.button
-{
+.button {
     padding: 10px 25px;
     background: #3E282A;
     border-radius: 5px;
@@ -278,8 +259,8 @@ a:hover {
     font-size: 12px;
 }
 
-/* Sidebar */
 
+/* Sidebar */
 #sidebar {
     float: left;
     width: 280px;
@@ -345,29 +326,8 @@ a:hover {
     text-decoration: underline;
 }
 
-/* Calendar */
-
-#calendar {
-}
-
-#calendar_wrap {
-    padding: 20px;
-}
-
-#calendar table {
-    width: 100%;
-}
-
-#calendar tbody td {
-    text-align: center;
-}
-
-#calendar #next {
-    text-align: right;
-}
 
 /* Footer */
-
 #footer {
     height: 50px;
     margin: 0 auto;
@@ -397,7 +357,6 @@ a:hover {
     margin: 0px auto;
 }
 
-#banner img
-{
+#banner img {
     border-radius: 8px;
 }
