@@ -186,6 +186,25 @@ a {
     border-radius: 8px;
 }
 
+@media all and (min-width: 600px) {
+    nav li {
+        display: inline-block;
+        width: 50%;
+    }
+}
+
+@media all and (min-width: 850px) {
+    nav li {
+        width: calc(100% / 3);
+    }
+}
+
+@media all and (min-width: 1100px) {
+    nav li {
+        width: calc(100% / 6);
+    }
+}
+
 
 /* Page */
 #page {
