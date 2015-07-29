@@ -52,6 +52,12 @@ a {
     color: #F6B300;
 }
 
+.group::after {
+    content: '';
+    clear: both;
+    display: block;
+}
+
 
 /* Header */
 #header {
@@ -208,7 +214,6 @@ a {
 
 /* Page */
 #page {
-    overflow: hidden;
     margin: 0px auto;
     padding: 30px 0px;
 }
