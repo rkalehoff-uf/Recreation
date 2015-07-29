@@ -131,27 +131,23 @@ a {
 
 /* Menu */
 #menu-wrapper {
-    overflow: hidden;
-    height: 56px;
     background: #3E282A;
     border-top: 1px solid #3D2729;
 }
 
 #menu {
-    height: 55px;
     margin: 0px auto;
     padding: 0px;
 }
 
 #menu ul {
     margin: 0;
-    padding: 10px 0px 0px 0px;
+    padding: 10px 0px 10px 0px;
     list-style: none;
     line-height: normal;
 }
 
 #menu li {
-    float: left;
     border-right: 1px solid #543E40;
 }
 
