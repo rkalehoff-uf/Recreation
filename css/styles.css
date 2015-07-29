@@ -43,7 +43,6 @@ a {
 /* Header */
 #header {
     clear: both;
-    width: 1000px;
     margin: 0px auto;
 }
 
@@ -140,7 +139,6 @@ a {
 }
 
 #menu {
-    width: 1000px;
     height: 55px;
     margin: 0px auto;
     padding: 0px;
@@ -189,7 +187,6 @@ a {
 /* Page */
 #page {
     overflow: hidden;
-    width: 1000px;
     margin: 0px auto;
     padding: 30px 0px;
 }
