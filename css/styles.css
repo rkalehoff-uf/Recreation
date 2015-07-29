@@ -353,10 +353,11 @@ a {
 }
 
 #banner {
-    width: 1000px;
     margin: 0px auto;
 }
 
 #banner img {
     border-radius: 8px;
+    height: auto;
+    width: 100%;
 }
