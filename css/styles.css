@@ -315,30 +315,30 @@ a {
     padding: 0;
 }
 
-#sidebar li ul {
+#sidebar section ul {
     margin: 0px 0px;
     padding-bottom: 50px;
 }
 
-#sidebar li li {
+#sidebar section li {
     border-bottom: 1px solid #E7DFD7;
     margin: 0px 0px;
     padding: 10px 0px;
     border-left: none;
 }
 
-#sidebar li li a {
+#sidebar section li a {
     color: #3B3B3B;
 }
 
-#sidebar li li span {
+#sidebar section li span {
     display: block;
     padding: 0;
     font-size: 11px;
     font-style: italic;
 }
 
-#sidebar h2 {
+#sidebar h3 {
     padding-bottom: 20px;
     font-size: 1.8em;
     color: #3D2729;
