@@ -161,10 +161,6 @@ a {
     line-height: normal;
 }
 
-#menu li {
-    border-right: 1px solid #543E40;
-}
-
 #menu a {
     display: block;
     letter-spacing: 1px;
