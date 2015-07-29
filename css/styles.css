@@ -42,7 +42,6 @@ a {
 
 /* Header */
 #header {
-    clear: both;
     margin: 0px auto;
 }
 
@@ -193,11 +192,6 @@ a {
 
 
 /* Content */
-#content {
-    float: right;
-    width: 640px;
-}
-
 .post {
     margin-bottom: 15px;
     padding: 30px 40px;
@@ -259,8 +253,6 @@ a {
 
 /* Sidebar */
 #sidebar {
-    float: left;
-    width: 280px;
     margin: 0px;
     padding: 40px 30px 0px 30px;
     color: #787878;
