@@ -221,11 +221,14 @@ a {
 
 /* Content */
 .post {
-    margin-bottom: 15px;
     padding: 30px 40px;
     border: 1px solid #E7DFD7;
     border-radius: 8px;
     background: #F1EDE4;
+}
+
+.post + .post {
+    margin-top: 1.5em;
 }
 
 .post .title {
