@@ -272,6 +272,19 @@ a {
     font-size: 12px;
 }
 
+@media (min-width: 950px) {
+    #content {
+        float: right;
+        margin-left: 1.5em;
+        width: calc(100% / 3 * 2);
+    }
+
+    #sidebar {
+        float: left;
+        width: calc(100% / 3 - 1.5em);
+    }
+}
+
 
 /* Sidebar */
 #sidebar {
